@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Andrew, but my friends call me "go away dude".
+My name is Andrew Apple, and I love making things. ![Uploading TomAndJerryPreparingGIF.gif…]()
+
 
 <!--
 **andrewapple/andrewapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
