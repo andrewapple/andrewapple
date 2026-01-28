@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew Apple, and I love making things. ![Uploading TomAndJerryPreparingGIF.gif…]()
+My name is Andrew Apple, and I love making things. 🧙‍♂️
 
 
 <!--
