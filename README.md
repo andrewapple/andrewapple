@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-My name is Andrew Apple, and I love making things. 🧙‍♂️
+My name is Andrew Apple, and I love making things. 
 
 
 <!--
+🧙‍♂️ The ability to turn what I see in my head into a real life tool that solves a problem is the best.
+
 **andrewapple/andrewapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 OUTLINE:
