@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+My name is Andrew, but my friends call me "go away dude".
+
 <!--
 **andrewapple/andrewapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+OUTLINE:
+1. About me
+2. My projects
+3. Skills / Experience (similar to projects but a more in depth explanation)
 
 Here are some ideas to get you started:
 
