@@ -4,8 +4,8 @@ My name is Andrew Apple, and I love making things.
 
 Here are a couple of those things:
 
-1. [GoFullSando](https://gofullsando.netlify.app) – Create and export your very own Brandon Sanderson reading list. 📚  
-2. [Caranova](https://caranova.app) – Convert longform text posts into exportable cards for social media. ✍️
+1. <a href="https://gofullsando.netlify.app" target="_blank">GoFullSando</a> – Create and export your very own Brandon Sanderson reading list. 📚  
+2. <a href="https://caranova.app" target="_blank">Caranova</a> – Convert longform text posts into exportable cards for social media. ✍️
 
 <!--
 🧙‍♂️ The ability to turn what I see in my head into a real life tool that solves a problem is the best.
