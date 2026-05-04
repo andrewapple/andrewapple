@@ -7,10 +7,11 @@ maintainable.
 
 🤝 My past experience in digital marketing strengthens my ability to develop technical solutions that support business objectives.
 
-Here are a couple of those things:
+Here are a some fun tools I have built just for myself:
 
 1. 🚀 **[GoFullSando](https://gofullsando.com)** – Create and export your very own Brandon Sanderson reading list  
 2. ✍️ **[Caranova](https://caranova.app)** – Convert longform text into social media cards
+
 
 <!--
 🧙‍♂️ The ability to turn what I see in my head into a real life tool that solves a problem is the best.
