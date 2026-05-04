@@ -4,7 +4,7 @@ My name is Andrew Apple, and I love making things.
 
 Here are a couple of those things:
 
-1. 🚀 **[GoFullSando](https://gofullsando.netlify.app)** – Create and export your very own Brandon Sanderson reading list  
+1. 🚀 **[GoFullSando](https://gofullsando.com)** – Create and export your very own Brandon Sanderson reading list  
 2. ✍️ **[Caranova](https://caranova.app)** – Convert longform text into social media cards
 
 <!--
