@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andrew Apple, and I love making things. 
+### My name is Andrew Apple, and I love making things. 
 
 🧠 I'm a problem-solving software developer driven by curiosity and a desire to build things that make people's lives better or their jobs easier.
 
