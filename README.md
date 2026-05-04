@@ -11,10 +11,12 @@ maintainable.
 ## Reference Links
 
 To view my resume, **[Click Here](https://github.com/andrewapple/andrewapple/blob/main/Andrew-Apple-Resume-2026.pdf)**.
+
 To view my LinkedIn, **[Click Here](https://www.linkedin.com/in/andrew-apple-43165355/)**.
 
+## Nifty Stuff I Built
 
-Here are a some fun tools I have built just for myself:
+Here are a some tools I built just for myself:
 
 1. 🚀 **[GoFullSando](https://gofullsando.com)** – Create and export your very own Brandon Sanderson reading list  
 2. ✍️ **[Caranova](https://caranova.app)** – Convert longform text into social media cards
