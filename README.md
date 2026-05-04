@@ -10,7 +10,7 @@ maintainable.
 
 ## Reference Links
 
-To view my resume, **[Click Here](https://github.com/andrewapple/andrewapple/blob/main/Andrew-Apple-Resume-2026.pdf)**.
+To view my resume, **[Click Here](https://github.com/andrewapple/andrewapple/blob/main/Andrew-Apple-Resume.pdf)**.
 
 To view my LinkedIn, **[Click Here](https://www.linkedin.com/in/andrew-apple-43165355/)**.
 
