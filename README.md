@@ -1,11 +1,17 @@
 # Andrew Apple - Builder, Writer, Marginalia Enthusiast 
 
+## Overview
 🧠 I'm a problem-solving software developer driven by curiosity and a desire to build things that make people's lives better or their jobs easier.
 
 💾 Whether it's updating a legacy application to meet modern expectations or designing a solution from the ground up, I strive to ship quality products that are intuitive, secure, and
 maintainable.
 
 🤝 My past experience in digital marketing strengthens my ability to develop technical solutions that support business objectives.
+
+## Reference Links
+To view my resume, **[Click Here](https://github.com/andrewapple/andrewapple/blob/main/Andrew-Apple-Resume-2026.pdf)**.
+To view my LinkedIn, **[Click Here](https://www.linkedin.com/in/andrew-apple-43165355/)**.
+
 
 Here are a some fun tools I have built just for myself:
 
