@@ -2,6 +2,14 @@
 
 My name is Andrew Apple, and I love making things. 
 
+🧠 I'm a problem-solving software developer driven by curiosity and a desire to build things that make people's lives better or their jobs easier.
+
+💾 Whether it's updating a legacy application to meet modern expectations
+or designing a solution from the ground up, I strive to ship quality products that are intuitive, secure, and
+maintainable.
+
+🤝 My past experience in digital marketing strengthens my ability to develop technical solutions that support business objectives.
+
 Here are a couple of those things:
 
 1. 🚀 **[GoFullSando](https://gofullsando.com)** – Create and export your very own Brandon Sanderson reading list  
