@@ -1,6 +1,6 @@
 # Andrew Apple - Builder, Writer, Marginalia Enthusiast 
 
-🧠 At work, I'm a problem-solving software developer driven by curiosity and a desire to build things that make people's lives better or their jobs easier.
+🧠 I'm a problem-solving software developer driven by curiosity and a desire to build things that make people's lives better or their jobs easier.
 
 💾 Whether it's updating a legacy application to meet modern expectations or designing a solution from the ground up, I strive to ship quality products that are intuitive, secure, and
 maintainable.
